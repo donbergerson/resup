@@ -4,6 +4,7 @@ This repo contains an easy-to-customize personal dev portfolio template that was
 
 To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
 
+
 ## Features
 
 * Gulp ready (compiles Sass and minifies JS)
